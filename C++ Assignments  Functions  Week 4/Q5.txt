@@ -1,0 +1,3 @@
+The mininum number of functions in C++ is:
+
+1
